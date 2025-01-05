@@ -31,4 +31,4 @@ This document serves as a comprehensive guide, compiling essential tasks and key
 * Created a ROS2 package using the colcon build tool ```sudo apt install``` &```colcon-build```
   * Added a Python script within the created package
   * Drew a circle using the package in VS code
-<p align="center">
+<p align="center"><img src="./img">
