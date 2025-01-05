@@ -32,3 +32,41 @@ This document serves as a comprehensive guide, compiling essential tasks and key
   * Added a Python script within the created package
   * Drew a circle using the package in VS code
 <p align="center"><img src="./img">
+# Launching Gazebo Simulation and controling the bot
+  * Used ```ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py``` to launch a gazebo simulation with obstacles and a bot
+<p align="center"> <img src="./img ROS/rosobjects.png">
+  
+  * Used ```ros2 run turtlebot3_teleop teleop_keyboard``` to use the keyboard WASD to move the 
+   bot
+
+# Using the Rviz to map the Gazebo environment
+
+  *  Used ```ros2 launch turtlebot3_navigation2 navigation2.launch,py use sim_time:=True```
+     to open Rviz and move the bot around using ```teleop``` to map the environment
+<p align="center"> <img src="./img ROS/git1.jpg"> 
+
+ unfinished map
+
+<p align="center"> <img src="./img ROS/git2.jpg">
+
+finished map
+
+# Using Rviz to make the bot autonomously navigate the mapped area
+ - starting location
+<p align="center"> <img src="./img ROS/git3.jpg">
+ - placing the destination
+<p align="center"> <img src="./img ROS/gitloc.jpg">
+ -  bot arrives at destination
+<p align="center"> <img src="./img ROS/git4.jpg">
+
+# Synopsis
+* At the end of the workshop participants were able to
+ - Efficiently navigate and handle file operations in the Linux terminal
+ - Efficiently manage packages in ROS2
+ - Control bots in ROS2 and VS code
+ - Efficiently simulate bots using gazebo
+ - Map environments using RViz
+ - Automate bots in simulation using ROS2
+
+  
+
