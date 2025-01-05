@@ -44,7 +44,7 @@ This document serves as a comprehensive guide, compiling essential tasks and key
 
   *  Used ```ros2 launch turtlebot3_navigation2 navigation2.launch,py use sim_time:=True```
      to open Rviz and move the bot around using ```teleop``` to map the environment
-<p align="center"> <img src="./img ROS/git1.jpg"> 
+<p align="center"> <img src="https://github.com/raashibv18/ROS2-WORKSHOP/blob/main/images%20ROS/git1.jpg"> 
 
  unfinished map
 
