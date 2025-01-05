@@ -48,7 +48,7 @@ This document serves as a comprehensive guide, compiling essential tasks and key
 
  unfinished map
 
-<p align="center"> <img src="./img ROS/git2.jpg">
+<p align="center"> <img src="https://github.com/raashibv18/ROS2-WORKSHOP/blob/main/images%20ROS/git2.jpg">
 
 finished map
 
