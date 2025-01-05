@@ -61,13 +61,22 @@ finished map
 <p align="center"> <img src="https://github.com/raashibv18/ROS2-WORKSHOP/blob/main/images%20ROS/git4.jpg">
 
 # Synopsis
-* At the end of the workshop participants were able to
- - Efficiently navigate and handle file operations in the Linux terminal
- - Efficiently manage packages in ROS2
- - Control bots in ROS2 and VS code
- - Efficiently simulate bots using gazebo
- - Map environments using RViz
- - Automate bots in simulation using ROS2
+At the conclusion of the workshop, participants achieved the following skills:
 
+*Proficiently navigating and performing file operations in the Linux terminal.
+
+*Managing packages in ROS2 with ease and efficiency.
+
+*Controlling robots using ROS2 and Visual Studio Code.
+
+*Simulating robots effectively within the Gazebo environment.
+
+*Creating and visualizing environment maps using RViz.
+
+*Automating robot operations in simulation through ROS2.
+
+*Troubleshooting and debugging common issues in ROS2 workflows.
+
+*Gaining hands-on experience in integrating various ROS2 tools for seamless robotic development.
   
 
