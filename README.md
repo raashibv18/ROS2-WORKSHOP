@@ -54,7 +54,7 @@ finished map
 
 # Using Rviz to make the bot autonomously navigate the mapped area
  - starting location
-<p align="center"> <img src="./img ROS/git3.jpg">
+<p align="center"> <img src="https://github.com/raashibv18/ROS2-WORKSHOP/blob/main/images%20ROS/git3.jpg">
  - placing the destination
 <p align="center"> <img src="./img ROS/gitloc.jpg">
  -  bot arrives at destination
