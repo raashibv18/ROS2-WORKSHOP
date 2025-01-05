@@ -32,9 +32,10 @@ This document serves as a comprehensive guide, compiling essential tasks and key
   * Added a Python script within the created package
   * Drew a circle using the package in VS code
 <p align="center"><img src="https://github.com/raashibv18/ROS2-WORKSHOP/blob/main/images%20ROS/tsim%20png%20git.png">
+ 
 # Launching Gazebo Simulation and controling the bot
   * Used ```ros2 launch turtlebot3_gazebo turtlebot3_world.launch.py``` to launch a gazebo simulation with obstacles and a bot
-<p align="center"> <img src="./img ROS/rosobjects.png">
+<p align="center"> <img src="https://github.com/raashibv18/ROS2-WORKSHOP/blob/main/images%20ROS/rosobjects.png">
   
   * Used ```ros2 run turtlebot3_teleop teleop_keyboard``` to use the keyboard WASD to move the 
    bot
