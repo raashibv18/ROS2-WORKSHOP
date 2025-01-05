@@ -56,7 +56,7 @@ finished map
  - starting location
 <p align="center"> <img src="https://github.com/raashibv18/ROS2-WORKSHOP/blob/main/images%20ROS/git3.jpg">
  - placing the destination
-<p align="center"> <img src="./img ROS/gitloc.jpg">
+<p align="center"> <img src="https://github.com/raashibv18/ROS2-WORKSHOP/blob/main/images%20ROS/gitloc.jpg">
  -  bot arrives at destination
 <p align="center"> <img src="./img ROS/git4.jpg">
 
