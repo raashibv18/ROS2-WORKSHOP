@@ -58,7 +58,7 @@ finished map
  - placing the destination
 <p align="center"> <img src="https://github.com/raashibv18/ROS2-WORKSHOP/blob/main/images%20ROS/gitloc.jpg">
  -  bot arrives at destination
-<p align="center"> <img src="./img ROS/git4.jpg">
+<p align="center"> <img src="https://github.com/raashibv18/ROS2-WORKSHOP/blob/main/images%20ROS/git4.jpg">
 
 # Synopsis
 * At the end of the workshop participants were able to
